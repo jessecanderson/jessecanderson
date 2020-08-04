@@ -1,6 +1,6 @@
 # Jesse Anderson Mobile Dev
 
-![Jesse Image](https://github.com/jessecanderson/jessecanderson/images/JesseAtMac.png)
+![Jesse Image](https://github.com/jessecanderson/jessecanderson/blob/master/images/JesseAtMac.png)
 
 ```Swift
     let user = MobileDev(
