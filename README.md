@@ -1,5 +1,7 @@
 # Jesse Anderson Mobile Dev
 
+![Jesse Image](images/JesseAtMac.png)
+
 ```Swift
     let user = MobileDev(
         name: "Jesse C Anderson",
@@ -8,8 +10,6 @@
         tools: ["UIKit", "SwiftUI", "Xcode", "Flutter", "Docker"]
 )
 ```
-
-![Jesse Image](JesseAtMac.png)
 
 I'm an iOS developer trying to learn and grow. I'm currently working on learning more around SwiftUI while also building skills around Flutter/Dart.
 
