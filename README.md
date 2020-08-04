@@ -8,7 +8,7 @@
         title: "Mobile Dev",
         lanuages: ["Swift", "Dart"],
         tools: ["UIKit", "SwiftUI", "Xcode", "Flutter", "Docker"]
-)
+    )
 ```
 
 I'm an iOS developer trying to learn and grow. I'm currently working on learning more around SwiftUI while also building skills around Flutter/Dart.
