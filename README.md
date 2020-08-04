@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning iOS, SwiftUI, Dart, and Flutter
+- 👯 I’m looking to collaborate on almost anything mobile.
+
 <!--
 **jessecanderson/jessecanderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
