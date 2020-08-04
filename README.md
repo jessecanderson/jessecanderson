@@ -1,6 +1,8 @@
 # Jesse Anderson Mobile Dev
 
-![Jesse Image](https://github.com/jessecanderson/jessecanderson/blob/master/images/JesseAtMac.png)
+<p align="center">
+  <img src="https://github.com/jessecanderson/jessecanderson/blob/master/images/JesseAtMac.png">
+</p>
 
 ```Swift
     let user = MobileDev(
@@ -34,4 +36,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+/![Jesse Image](https://github.com/jessecanderson/jessecanderson/blob/master/images/JesseAtMac.png)
 -->
