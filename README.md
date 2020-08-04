@@ -9,7 +9,9 @@
 )
 ```
 
-I'm an iOS developer trying to learn and grow. I'm currently working on learning more around SwiftUI but also build skills around Flutter/Dart.
+![Jesse Image](JesseAtMac.png)
+
+I'm an iOS developer trying to learn and grow. I'm currently working on learning more around SwiftUI while also building skills around Flutter/Dart.
 
 I'm still learning, and always trying to push myself. I love to build things and feel most productive when I'm building something I feel will benifit the community at large.
 
