@@ -1,6 +1,6 @@
 # Jesse Anderson Mobile Dev
 
-![Jesse Image](images/JesseAtMac.png)
+![Jesse Image](https://github.com/jessecanderson/jessecanderson/images/JesseAtMac.png)
 
 ```Swift
     let user = MobileDev(
@@ -35,3 +35,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+https://github.com/images/JesseAtMac.png
