@@ -1,8 +1,6 @@
 # Jesse Anderson Mobile Dev
 
-<p align="center">
-  <img src="https://github.com/jessecanderson/jessecanderson/blob/master/images/JesseAtMac.png">
-</p>
+<img src="https://github.com/jessecanderson/jessecanderson/blob/master/images/JesseAtMac.png" width="100">
 
 ```Swift
     let user = MobileDev(
