@@ -7,7 +7,8 @@
         name: "Jesse C Anderson",
         title: "Mobile Dev",
         lanuages: ["Swift", "Dart"],
-        tools: ["UIKit", "SwiftUI", "Xcode", "Flutter", "Docker"]
+        frameworks: ["UIKit", "SwiftUI", "Vapor", "Flutter"]
+        tools: ["Xcode", "Docker", "AWS"]
     )
 ```
 
