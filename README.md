@@ -12,6 +12,10 @@
     )
 ```
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning Javascript and React/Next
+- 💬 Ask me about Anything
+
 I'm an iOS developer trying to learn and grow. I'm currently working on learning more around SwiftUI while also building skills around Flutter/Dart.
 
 I'm still learning, and always trying to push myself. I love to build things and feel most productive when I'm building something I feel will benefit the community at large.
