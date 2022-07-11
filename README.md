@@ -6,8 +6,8 @@
     let user = MobileDev(
         name: "Jesse C Anderson",
         title: "Mobile Dev",
-        languages: ["Swift", "Dart"],
-        frameworks: ["UIKit", "SwiftUI", "Flutter", "JavaScript"]
+        languages: ["Swift", "Dart", "JavaScript"],
+        frameworks: ["UIKit", "SwiftUI", "Flutter", "React", "Next.JS"]
         tools: ["Xcode", "Docker", "AWS"]
     )
 ```
