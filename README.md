@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning Javascript and React/Next
 - 💬 Ask me about Anything
 
-I'm an iOS developer trying to learn and grow. I'm currently working on learning more around SwiftUI while also building skills around Flutter/Dart.
+I'm a developer trying to learn and grow. As a way to push myself I'm activally learning more on iOS/mobile dev work around native, flutter, and React Native as well as growing as a web developer through learning React as well as Next.JS and doing some node work for some back end learning. Taking a stab at GoLang in order to write efficent and fast API's. 
 
 I'm still learning, and always trying to push myself. I love to build things and feel most productive when I'm building something I feel will benefit the community at large.
 
