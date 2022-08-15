@@ -1,4 +1,4 @@
-# Jesse Anderson Mobile Dev
+# Jesse Anderson Developer
 
 <img src="https://github.com/jessecanderson/jessecanderson/blob/master/images/JesseAtMac.png" width="100">
 
@@ -12,16 +12,19 @@
     )
 ```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Javascript and React/Next
+## 🔭 I’m currently working on ...
+- 🌱 I’m currently learning Javascript
+- 🌱 Learning different web frameworks with React, Next.JS
+- 🌱 Trying out GoLang and frameworks created with that
 - 💬 Ask me about Anything
 
-I'm a developer trying to learn and grow. As a way to push myself I'm activally learning more on iOS/mobile dev work around native, flutter, and React Native as well as growing as a web developer through learning React as well as Next.JS and doing some node work for some back end learning. Taking a stab at GoLang in order to write efficent and fast API's. 
+I'm a developer trying to learn and grow. As a way to push myself I'm activally learning more mobile developement as a web development through learning Javascript, React, Next.JS, Node, and Bun to fully understand the full stack development. I am also taking a stab at GoLang in order to write efficent and fast multithreaded API's. 
 
 I'm still learning, and always trying to push myself. I love to build things and feel most productive when I'm building something I feel will benefit the community at large.
 
-I'm interested in collaboration on mobile projects, just ping me and I can see what I can help with.
+I'm interested in collaboration on projects, just ping me and I can see what I can help with.
 
+## 📫 How to reach me:
 [![Twitter: sockeyes51](https://img.shields.io/twitter/follow/sockeyes51?label=sockeyes51&style=social)](https://twitter.com/sockeyes51)
 [![Instagram: jesse.c.anderson](https://img.shields.io/badge/jesse.c.anderson-lightgrey?style=flat-square&logo=Instagram&link=https://www.instagram.com/jesse.c.anderson/)](https://www.instagram.com/jesse.c.anderson/)
 [![Linkedin: jessecanderson](https://img.shields.io/badge/-jessecanderson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessecanderson/)](https://www.linkedin.com/in/jessecanderson/)
