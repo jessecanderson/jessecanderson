@@ -3,10 +3,10 @@
 <img src="https://github.com/jessecanderson/jessecanderson/blob/master/images/JesseAtMac.png" width="100">
 
 ```Swift
-    let user = MobileDev(
+    let user = Developer(
         name: "Jesse C Anderson",
-        title: "Mobile Dev",
-        languages: ["Swift", "Dart", "JavaScript"],
+        title: "Developer",
+        languages: ["JavaScript", "Swift", "Dart"],
         frameworks: ["UIKit", "SwiftUI", "Flutter", "React", "Next.JS"]
         tools: ["Xcode", "Docker", "AWS"]
     )
